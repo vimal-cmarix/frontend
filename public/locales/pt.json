@@ -1,0 +1,888 @@
+{
+  "dateFormates": {
+    "simple": "MM/DD/YYYY"
+  },
+  "months": {
+    "0": "Janeiro",
+    "1": "Fevereiro",
+    "2": "Março",
+    "3": "Abril",
+    "4": "Maio",
+    "5": "Junho",
+    "6": "Julho",
+    "7": "Agosto",
+    "8": "Setembro",
+    "9": "Outubro",
+    "10": "Novembro",
+    "11": "Dezembro"
+  },
+  "home": {
+    "title": "Home",
+    "description": "Home Page",
+    "portifolio": "Library",
+    "edit_portfolio": "Edit Library",
+    "insert_box": {
+      "blog": "Create Blog",
+      "external-link": "External Link",
+      "video": "Upload Video"
+    },
+    "sidebar": {
+      "edit_profile": "Edit profile",
+      "complete_your_profile": "Complete your profile",
+      "summary": "Summary",
+      "education": "Education",
+      "experience": "Experience",
+      "certificates": "Certificates",
+      "skills": "Skills",
+      "interests": "Interests",
+      "resume": "Resume",
+      "edit_information": "Edit information"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "description": "Profile Page",
+    "link_back": "Home",
+    "summary": "Summary",
+    "video_support": "Your browser does not support HTML5 video.",
+    "add": "+ Add",
+    "job_experience": "Job Experience",
+    "certificates": "Certificates",
+    "education": "Education",
+    "skills": "Skills",
+    "resume": "Resume",
+    "showAll": "Show all",
+    "showMore": "Show more",
+    "showLess": "Show less",
+    "of": "of",
+    "sidebar": {
+      "avatar": {
+        "remove": {
+          "title": "Remove photo",
+          "description": "Are you sure you want to remove that photo?"
+        }
+      },
+      "about": "About",
+      "contact": "Contact",
+      "interests": "Interests"
+    }
+  },
+  "signup": {
+    "page": {
+      "title": "Sign Up",
+      "description": "Sign Up Page"
+    },
+    "quotes": {
+      "text": "The journey of a thousand miles begins with a single step",
+      "author": "Lao Tzu"
+    },
+    "form": {
+      "have_account": "Already have an account?",
+      "create_account": "Create account",
+      "button": {
+        "login": "Login",
+        "signup": "Sign up"
+      },
+      "label": {
+        "email": "Email address",
+        "first_name": "First name",
+        "address": "Address",
+        "location": "Location",
+        "last_name": "Last name",
+        "phone": "Phone",
+        "password": "Password",
+        "notspecified":"Not specified",
+        "sponsor":"Sponsorship required to work in the US",
+        "authorise":"Authorized to work in the US for any employer",
+        "Profile":"Profile Visibility",
+        "msg":"Call and send me text messages at this phone number",
+        "Institution":"Institution Name",
+        "Degree":"Degree Type",
+        "study":"Field of study",
+        "Gohere":"I currently go here",
+        "Year":"Year",
+        "Month":"Month",
+        "Company":"Company",
+        "jobTitle":"Job Title",
+        "comantext":"Lorem Ipsum is simply dummy text",
+        "CompanySize":"Company Size",
+        "CompanyHeadquarters":"Company Headquarters",
+        "Industry":"Industry",
+        "CompanyName":"Company Name",
+        "AdminLink":"Link",
+        "fullname": "Full name",
+        "Position":"Position",
+        "title":"Title",
+        "Employeetestimonial":"Employee testimonial"
+      },
+      "placeholder": {
+        "email": "alfredpennyworth@gmail.com",
+        "first_name": "Alfred",
+        "address": "memnager",
+        "location": "ahmedabad",
+        "last_name": "Pennyworth",
+        "phone": "+1 (999) 999-9999",
+        "password": "At least 8 characters",
+        "Institution":"Field of study",
+        "Company":"Company",
+        "jobTitle":"Job Title",
+        "CompanySize":"Company Size",
+        "CompanyHeadquarters":"Company Headquarters",
+        "Industry":"Industry",
+        "CompanyName":"Company name",
+        "fullname": "Full name",
+        "Position":"Position",
+        "title":"Title",
+        "Employeetestimonial":"Employee testimonial"
+      },
+      "mask": {
+        "phone": "+1 (999) 999-9999"
+      }
+    }
+  },
+  "summary_page": {
+    "title": "Summary",
+    "description": "Summary page",
+    "clear_content": "Clear content",
+    "remove_message": "Are you sure you want to remove that contents?",
+    "video_title_label": "Title",
+    "video_description_label": "Description",
+    "video_description_placeholder": "Type a description",
+    "video_title_placeholder": "Type a title",
+    "video_support": "Your browser does not support HTML5 video.",
+    "back_page": "Back",
+    "video_type": {
+      "label": "Select the video source",
+      "url_video": "Add link",
+      "upload_video": "Upload video"
+    }
+  },
+  "navbar": {
+    "tour_indicator": "The profile tour will be here if you need to see it again.",
+    "upgrade": "Upgrade Account",
+    "change": "Change Plan",
+    "popover": {
+      "account_title": "Account",
+      "resource_center_title": "Learning Center",
+      "misc_title": "Misc.",
+      "tour": "Profile Tour",
+      "eportfolio_tour": "Content Library Tour",
+      "edit_profile": "Edit Profile",
+      "profile": "View Profile",
+      "share_profile": "Share Profile",
+      "change_password": "Change Password",
+      "faq": "FAQ",
+      "private_link": "Private link",
+      "tutorials": "Tutorial Videos",
+      "inspirational": "Inspirational Videos",
+      "billing": "Account & Billing",
+      "pricing": "Pricing & Features",
+      "refer_friend": "Refer a friend",
+      "settings": "Settings",
+      "logout": "Log Out"
+    },
+    "home": "Home",
+    "my_library": "Library",
+    "my_pitches": "Pitch",
+    "analytics": "Analytics",
+    "notifications": "Notifications",
+    "job_tracker": "Applications"
+  },
+  "modals": {
+    "change_password": {
+      "title": "Change password",
+      "current_password": "Current password",
+      "new_password": "New password",
+      "confirm_new_password": "New password confirmation",
+      "placeholders": {
+        "current_password": "Please type your current password",
+        "new_password": "At least 8 characters",
+        "confirm_new_password": "Please confirm your new password"
+      },
+      "success": "Password has been changed successfully"
+    },
+    "private_link": {
+      "title": "Share a Private Link",
+      "resume": "Copy your private link and password then share to enable anyone to view your Sizigi profile and library."
+    },
+    "portfolio_link": {
+      "title": "Share your content",
+      "resume": "Copy your link or share in the social medias"
+    },
+    "education": {
+      "title": "Education",
+      "save": "Save",
+      "placeholders": {
+        "title": "Type a School name",
+        "education_field": "Type a Degree",
+        "institution": "Type a Field of study",
+        "month": "Month",
+        "year": "Year"
+      },
+      "labels": {
+        "title": "School name",
+        "education_field": "Degree",
+        "institution": "Field of study",
+        "graduation_date": "Graduation date"
+      },
+      "delete": {
+        "title": "Delete education",
+        "description": "Are you sure you want to remove that education?"
+      },
+      "success": "Education has been changed successfully",
+      "delete_success": "Education has been deleted successfully"
+    },
+    "certificate": {
+      "title": "Certificate",
+      "delete": {
+        "title": "Delete certificate",
+        "description": "Are you sure you want to remove that certificate?"
+      },
+      "deleteV2": {
+        "title": "Oops!",
+        "description": "Are you sure you want to delete this certificate?",
+        "warnDescription": "Once you delete, it will be lost forever."
+      },
+      "labels": {
+        "title": "Title",
+        "institution": "Institution",
+        "date": "Date"
+      },
+      "placeholders": {
+        "title": "Type a Title",
+        "institution": "Type an Institution",
+        "month": "Month",
+        "year": "Year"
+      },
+      "success": "Certificate has been changed successfully",
+      "certificate_success": "Certificate has been changed successfully",
+      "delete_success": "Certificate has been deleted successfully"
+    },
+    "notes": {
+      "delete": {
+        "title": "Oops!",
+        "description": "Are you sure you want to delete this note?",
+        "warnDescription": "Once you delete, it will be lost forever."
+      },
+      "success": "Note has been changed successfully",
+      "delete_success": "Note has been deleted successfully"
+    },
+    "tasks": {
+      "success": "Task has been changed successfully",
+      "delete_success": "Task has been deleted successfully",
+      "finished": "Task has been moved to completed"
+    },
+    "job_experience": {
+      "title": "Job experience",
+      "current_job": "Current Job",
+      "delete": {
+        "title": "Delete job experience",
+        "description": "Are you sure you want to remove that job experience?"
+      },
+      "labels": {
+        "company": "Company name",
+        "role": "Role",
+        "period_from": "Start date",
+        "period_to": "End date",
+        "checkbox": "I currently work here"
+      },
+      "placeholders": {
+        "company": "Type a Company name",
+        "role": "Type a Role",
+        "period_from": "Select your experience start date",
+        "period_to": "Select your experience end date",
+        "country": "Select a Country"
+      },
+      "success": "Job experience has been changed successfully",
+      "delete_success": "Job experience has been deleted successfully"
+    },
+    "about": {
+      "title": "About",
+      "default_country": "United States",
+      "fields": {
+        "occupation": {
+          "label": "Occupation",
+          "placeholder": "Type an Occupation"
+        },
+        "country": {
+          "label": "Country"
+        },
+        "state": {
+          "label": "State"
+        },
+        "city": {
+          "label": "City"
+        },
+        "companySize": {
+          "label": "Company Size"
+        },
+        "biggestChallenge": {
+          "label": "Your biggest challenge"
+        },
+        "howDidYouHear": {
+          "label": "How did you hear about us?"
+        },
+        "timezone": {
+          "label": "Time zone"
+        }
+      },
+      "success": "About has been changed successfully"
+    },
+    "Job_Details": {
+      "title": "Job Details",
+      "fields": {
+        "JobDetails": {
+          "label": "What you will do / The impact you will make",
+          "placeholder": "What does the day-to-day life of someone in this position/department look like?"
+        },
+        "Qualifications": {
+          "label": "What you will bring to the table",
+          "placeholder": "What skills should someone in this position have to offer?"
+        },
+        "location": {
+          "label": "Location"
+        }
+      },
+      "success": "Job Details has been changed successfully"
+    },
+    "contact": {
+      "fields": {
+        "phone": {
+          "label": "Please enter your phone number",
+          "labelMobile": "Your phone number",
+          "placeholder": "1234567890",
+          "mask": "+1 (999) 999-9999"
+        },
+        "email": {
+          "label": "Please enter your email",
+          "labelMobile": "Your email",
+          "placeholder": "something@mailmail.com"
+        }
+      },
+      "success": "Contact has been changed successfully"
+    },
+    "interests": {
+      "label": "Type an Interest",
+      "add": "+ Add (or enter)",
+      "success": "Interests has been changed successfully"
+    },
+    "skills": {
+      "label": "Type a Skill",
+      "add": "+ Add (or enter)",
+      "success": "Skills has been changed successfully"
+    },
+    "tour": {
+      "title": "Let’s explore your Sizigi account.",
+      "description": "Welcome to the profile section of your Sizigi account. Start by briefly exploring some of the main features and get to know your way around, and you can get back here from your settings menu.",
+      "start": "Start Tour",
+      "skip": "Skip Tour"
+    },
+    "preview_summary": {
+      "title": "Summary",
+      "video_support": "Your browser does not support HTML5 video."
+    },
+    "digital_presence": {
+      "title": "My Digital Presence",
+      "support_text": "Let’s channel our inner professional, artist, blogger, influence, videographer! The list goes on and on but you get what we mean.",
+      "success": "Digital presence has been changed successfully"
+    },
+    "upgrade_warn": {
+      "title": "Wait!",
+      "description": "We noticed that you’ve run out of job card for this subscription tier!<br/>You’re doing such a great job why not upgrade to track more jobs?",
+      "warn_description": "If you decide not to upgrade, the job card you made will still be saved!",
+      "cancel": "No I’m okay",
+      "confirm": "Okay let’s do it!"
+    },
+    "upgrade_sure": {
+      "title": "Are you sure?",
+      "description": "We really want you to keep your supercharged job hunt experience with us!<br/>Would <span style='color:#4f9598'>15% off 1 year</span> help you out?<br/>(so if you’re a student, you’d get a whopping 65% off!!!)",
+      "warn_description": "<span style='color:#d32c63'>Offer expires in 24 hours!</span>",
+      "cancel": "No I’m good",
+      "confirm": "Yes it would!"
+    },
+    "downgrade_sure": {
+      "title": "Are you sure?",
+      "description": "Some of your job card will become inactive if you downgrade now. Would <span style='color:#4f9598'>20% off</span> next month’s subscription sweeten the deal enough for you to stay?",
+      "warn_description": "If you decide to downgrade, <span style='color:#d32c63'>XX</span> job cards will become inactive.",
+      "cancel": "No I’m okay",
+      "confirm": "Okay let’s do it!"
+    },
+    "new_job":{
+      "toast_upgrade": "You cannot create another inactive job card. Please upgrade your plan."
+    },
+    "job_form":{
+      "placeholder": {
+        "company": "Enter your company name",
+        "jobTitle": "What position are you applying for?",
+        "url": "Copy-paste the job posting link here!",
+        "location": "Add location here",
+        "salary": "Add salary here",
+        "description": "Does this job have any requirements, specific responsibilities, or anything noteable you’d like to keep in mind when adding content to your pitch/profile?"
+      }
+    },
+    "job_tracker_pendency": {
+      "inactivate": {
+        "support_text": "Please select the job cards you want to make inactive",
+        "pendency_text": "You will need to make <span style='color:#6f5ccd'>{AMOUNT}</span> cards inactive.",
+        "abort_text_downgrade": "Nevermind I don’t want to downgrade!",
+        "abort_text": "Close"
+      },
+      "activate": {
+        "support_text": "Please select the job cards you want to make active",
+        "pendency_text": "You can make <span style='color:#6f5ccd'>{AMOUNT}</span> cards active.",
+        "abort_text_downgrade": "Nevermind I don’t want to downgrade!",
+        "abort_text": "Close"
+      }
+    }
+  },
+  "buttons": {
+    "finish_editing": "Finish editing",
+    "go_presentation": "Go to presentations",
+    "get_share": "Get sharable link",
+    "publish_share": "Publish and get sharable link",
+    "publish_only": "Publish only",
+    "next": "Next",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "confirm": "Confirm",
+    "back": "Back",
+    "save": "Save",
+    "save_and_add_new": "Save and add new",
+    "clear_content": "Clear content",
+    "publish": "Publish",
+    "save_publish": "Save and publish",
+    "save_continue": "Save and continue",
+    "save_draft": "Save as draft",
+    "save_close": "Save and close",
+    "edit": "Edit",
+    "options": "Options",
+    "ok": "Ok",
+    "yes_i_am": "Yes, I am",
+    "click_view": "Click to view",
+    "cancel_subscription": "I still want to cancel",
+    "keep_plan": "Keep my plan!",
+    "share": "Share"
+  },
+  "text_editor": {
+    "title": "Content edition",
+    "resume": "Add images, links, video, and text. Start by clicking the + button below if you’d like to include more information when viewers watch your video."
+  },
+  "select": {
+    "default_placeholder": "Select option..."
+  },
+  "toast": {
+    "success": {
+      "title": "Success dddd"
+    },
+    "error": {
+      "title": "Error"
+    }
+  },
+  "errorMessages": {
+    "detail": {
+      "required": "Detail is required"
+    },
+    "video": {
+      "required": "Video is required"
+    },
+    "cover": {
+      "required": "Cover image is required"
+    },
+    "title": {
+      "required": "Title is required"
+    },
+    "skill": {
+      "required": "Skill is required",
+      "duplicated": "Duplicated skill"
+    },
+    "interest": {
+      "required": "Interest is required",
+      "duplicated": "Duplicated interest"
+    },
+    "email": {
+      "required": "Email is required",
+      "email": "Invalid email address"
+    },
+    "first_name": {
+      "required": "First name is required"
+    },
+    "last_name": {
+      "required": "Last name is required"
+    },
+    "phone": {
+      "required": "Phone is required",
+      "invalid": "Invalid Phone"
+    },
+    "password": {
+      "required": "Password is required",
+      "min": "Passwords must be at least 8 characters in length"
+    },
+    "current_password": {
+      "required": "Current password is required",
+      "min": "Passwords must be at least 8 characters in length"
+    },
+    "new_password": {
+      "required": "Password is required",
+      "min": "Passwords must be at least 8 characters in length"
+    },
+    "confirm_new_password": {
+      "oneOf": "Conform password dose not match",
+      "min": "Passwords must be at least 8 characters in length",
+      "required": "Confirm password is required"
+    },
+    "occupation": {
+      "required": "Role is required"
+    },
+    "countryId": {
+      "required": "Country is required"
+    },
+    "stateId": {
+      "required": "State is required"
+    },
+    "cityId": {
+      "required": "City is required"
+    },
+    "timezone": {
+      "required": "Time zone is required"
+    },
+    "degree": {
+      "required": "Please type an education title"
+    },
+    "fieldOfStudy": {
+      "required": "Please type an education field"
+    },
+    "institution": {
+      "required": "Please type an institution name"
+    },
+    "month": {
+      "required": "Please select a month"
+    },
+    "year": {
+      "required": "Please select a year"
+    },
+    "company": {
+      "required": "Please enter a company name"
+    },
+    "period_from_month": {
+      "required": "Please select a Start date month"
+    },
+    "period_from_year": {
+      "required": "Please select a Start date year"
+    },
+    "period_to_month": {
+      "required": "Please select an End date month"
+    },
+    "period_to_year": {
+      "required": "Please select an End date year",
+      "greaterThan": "Please select an End date greater than Start date"
+    },
+    "description": {
+      "required": "Description is required"
+    },
+    "job": {
+      "required": "Job area is required"
+    },
+    "topic": {
+      "required": "Topic area is required"
+    },
+    "industry": {
+      "required": "Industry area is required"
+    },
+    "jobTitle": {
+      "required": "Job Title is required"
+    },
+    "companyName": {
+      "required": "Conpany Name is required"
+    },
+    "note": {
+      "required": "Note is required"
+    },
+    "content": {
+      "required": "Content is required"
+    }
+  },
+  "summary": {
+    "success": "Summary has been changed successfully"
+  },
+  "profile_picture": {
+    "success": "Profile Picture has been changed successfully",
+    "delete_success": "Profile Picture has been deleted successfully"
+  },
+  "resume": {
+    "modal_preview": "Resume",
+    "upload_description": "Upload DOC or PDF files.",
+    "success": "Resume has been changed successfully",
+    "delete": {
+      "title": "Delete resume",
+      "description": "Are you sure you want to remove resume?"
+    }
+  },
+  "card": {
+    "success": "Job card has been changed successfully",
+    "delete": {
+      "title": "Oops!",
+      "description": "Are you sure you want to delete this?",
+      "warnDescription": "Once you delete, it will be lost forever."
+    },
+    "delete_success": "Job card has been deleted successfully"
+  },
+  "tour": {
+    "avatar": "Upload a profile image. Remember this will be part of your professional presentation.",
+    "about": "Select to add general information about yourself and where you're located.",
+    "contact": "Contact details enable interested parties to reach out.",
+    "interests": "Interests are like the terms and keywords you're passionate about in your career. Sizigi uses these details to better connect you with opportunities.",
+    "job_experience": "This is a snapshot of where you’ve worked. Add as many as you like.",
+    "education": "Education is important, but so are life experiences and telling your story.",
+    "certificates": "Got any extracurricular certifications or extended learning you want to talk about?",
+    "skills": "Adding your skills is a list, but this is not your resume, just a guide that lets people know a bit about you to begin.",
+    "resume": "Upload your resume, C.V., Infographic or presentation here. It accepts .Doc and PDF files.",
+    "summary": "This is your Video Summary. It can be changed at any time, but it’s sort of the first window into who you are that people get to see."
+  },
+  "portfolio": {
+    "title": "My library",
+    "description": "description my library",
+    "btn_new": "New post",
+    "published": "Published",
+    "drafts": "Drafts",
+    "delete_action": {
+      "title": "Delete Post",
+      "description": "If you delete this post you will lose it."
+    },
+    "options": {
+      "video": "Upload Video",
+      "link": "External Link",
+      "blog": "Create Blog"
+    },
+    "not_posts": "You don't have any posts",
+    "load_more": "Load more"
+  },
+  "file_upload": {
+    "maximumSize": "Maximum file size:",
+    "byteUnity": "Mb"
+  },
+  "post": {
+    "options": {
+      "edit": "Edit",
+      "delete": "Delete",
+      "publish": "Publish",
+      "analytics": "View analytics",
+      "share": "Share"
+    },
+    "back": "Back",
+    "video_support": "Your browser does not support HTML5 video.",
+    "create": {
+      "video": {
+        "title": "Upload video",
+        "description": "Create post video",
+        "upload_description": "Accepts all major video file types."
+      },
+      "blog": {
+        "title": "New blog post",
+        "description": "Create blog post",
+        "upload_description": "Accepts all major image file types."
+      }
+    },
+    "fields": {
+      "cover": {
+        "label": "Cover image"
+      },
+      "video": {
+        "label": "Video"
+      },
+      "title": {
+        "label": "Title",
+        "placeholder": "Type a title"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Type a text"
+      },
+      "job": {
+        "label": "Job area",
+        "placeholder": "Type a text",
+        "hint": "You can input whether your blog is General or targeted to a specific Job Area such as Revenue Accounting, FP & A, Investment Banking, Audit or Treasury"
+      },
+      "topic": {
+        "label": "Topic area",
+        "placeholder": "Type a text",
+        "hint": "You can input whether your blog is General or targeted to a specific Topic Area such as Revenue Recognition, Strategic Planning, Valuation, Deal Structuring of Foreign Exchange"
+      },
+      "industry": {
+        "label": "Industry area",
+        "placeholder": "Type a text",
+        "hint": "You can input whether your blog is General or targeted to a specific Industry Area such as Biotech, B2B Software, Retail, Semiconductors or Banking"
+      },
+      "tags": {
+        "label": "Tags",
+        "placeholder": "Type a text",
+        "hint": "You can input whether your blog is General or targeted to a specific Area."
+      }
+    },
+    "success": {
+      "create": {
+        "published": "Post has been created successfully",
+        "draft": "Draft has been created successfully"
+      },
+      "delete": {
+        "published": "Post has been deleted successfully"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Use our perfect solutions to get hired!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dui mi, egestas id velit a, ultrices lobortis odio. Donec finibus arcu eget risus rhoncus tempus. Suspendisse et ultrices",
+    "plans": {
+      "free": {
+        "title": "Free Tier",
+        "price": "$ 0",
+        "features": [
+          "Free for life",
+          "Comes with main eportfolio / profile presentation",
+          "Comes with 1 free custom presentation"
+        ],
+        "button": {
+          "disabled": "You’ve already upgraded",
+          "active": "Your Current Plan"
+        }
+      },
+      "starter": {
+        "title": "Professional Trailblazer",
+        "per": "Per Month",
+        "features": [
+          "Includes everything in free",
+          "Comes with Analytics",
+          "Comes with 5 custom presentations",
+          "2 month free trial",
+          "Special Student discount pricing"
+        ],
+        "button": {
+          "current": "Your Current Plan",
+          "upgraded": "You’ve already upgraded",
+          "active": "Upgrade"
+        }
+      },
+      "premium": {
+        "title": "Premium Job Seeker",
+        "per": "Per Month",
+        "features": [
+          "Includes Everything",
+          "Comes with Analytics",
+          "Unlimited Custom Presentations",
+          "2 month free trial",
+          "Special Student discounting"
+        ],
+        "button": {
+          "disabled": "Your Current Plan",
+          "active": "Upgrade"
+        }
+      }
+    }
+  },
+  "payment_form": {
+    "titles": {
+      "billing": "Billing",
+      "payment": "Payment",
+      "plan": "Your plan"
+    },
+    "plans": {
+      "starter": {
+        "title": "Professional Trailblazer",
+        "resume": "Insights and metrics about your presentations and portfolio.",
+        "price": "$8.99 USD / Month",
+        "per": "month"
+      },
+      "premium": {
+        "title": "Premium Job Seeker",
+        "resume": "A cover video and portfolio items shared in a public or private presentation.",
+        "price": "$13.99 / Month",
+        "per": "month"
+      }
+    },
+    "button_pay": "Pay with Card",
+    "subs_placeholder": "Monthly subscription",
+    "hints": {
+      "name": "Full name displayed on card",
+      "subs": "Switch to annual and save $19.90 USD / Year",
+      "presentation": "/ One-time charge",
+      "check": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "labels": {
+      "number": "Credit card number",
+      "expiration": "Expiration",
+      "cvv": "CVV",
+      "name": "Name on card",
+      "email": "Email",
+      "zip": "Zip code",
+      "subs": "Monthly subscription",
+      "save": "Save payment method",
+      "presentation": "Presentations"
+    }
+  },
+  "modal_success_payment": {
+    "title": "Your now on the {PLAN} Plan",
+    "resume": "Woohoo! Your new subscription gives you access to more tools and features to show off those skills and experiences in the jobs you're tracking. Better start getting your interview outfit ready!"
+  },
+  "billing": {
+    "title": "Billing",
+    "description": "Billing",
+    "my_plan": "My plan",
+    "plan_starter": {
+      "title": "Starter Plan",
+      "description": "This is a free plan and with it you will not have insights and metrics about your pitches and library.",
+      "link": "Upgrade plan"
+    },
+    "plan_analytics": {
+      "title": "Premium Analytics plan",
+      "description": "You have the analytics plan and with it you have insights and metrics about your pitches and library.",
+      "link": "Unsubscribe",
+      "renewal": "Your plan renewal date will be every {RENEWAL}.",
+      "canceled": "On {DATE_CANCEL}, you canceled your subscription renewal. The features of your plan will be available until {DATE_AVAILABLE}. After that, you can renew your subscription.",
+      "student_trial": "Your trial expires on {DATE_EXPIRE}",
+      "upgrade": "Upgrade"
+    },
+    "payment_info": {
+      "title": "payment info",
+      "ending": "ending",
+      "no_payments": {
+        "title": "No cards saved ",
+        "description": "You have no cards saved"
+      },
+      "add": "Add payment",
+      "edit": "Edit payment"
+    },
+    "invoices": {
+      "title": "Invoices",
+      "no_invoices": {
+        "title": "No invoices",
+        "description": "You don't have any invoices yet."
+      },
+      "view": "View all"
+    },
+    "disputes": {
+      "title": "Refunds and disputes",
+      "no_disputes": {
+        "title": "No refunds or disputes",
+        "description": "You have no open disputes or refund orders. If you need help, send us a message."
+      },
+      "contact": "Contact us",
+      "view": "View all"
+    },
+    "status": {
+      "accepted": "Dispute accepted",
+      "disputed": "Disputed",
+      "expired": "Dispute expired",
+      "open": "Dispute open",
+      "lost": "Dispute lost",
+      "won": "Dispute won"
+    }
+  },
+  "share": {
+    "portfolio": {
+      "page_title": "Shared portfolio",
+      "page_description": "Shared description"
+    }
+  },
+  "board": {
+    "content_first_access": "Welcome to your application tracker!<br/>Here are 3 things you need to know to get started.<br/><br/>1. The left is where you can access your different boards and contact list (available soon).<br/>2. Each swimlane represents where each job is in it’s application journey.<br/>3. You can click-and-drag your job card between swimlanes."
+  }
+}

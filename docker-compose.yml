@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  frontend:
+    container_name: sizigi.frontend
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - BUILD_CONTEXT=qa
+    ports:
+      - 80
+      - 3000
+    environment:
+      - NODE_ENV=production
+      - BUILD_CONTEXT=qa

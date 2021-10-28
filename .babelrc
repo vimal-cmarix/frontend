@@ -1,0 +1,50 @@
+{
+  "presets": [
+    "next/babel",
+    "@babel/preset-react"
+  ],
+  "plugins": [
+    [
+      "styled-components",
+      {
+        "ssr": true,
+        "displayName": true,
+        "preprocess": false
+      }
+    ],
+    [
+      "module-resolver",
+      {
+        "root": [
+          "."
+        ],
+        "alias": {
+          "@components": "./src/components",
+          "@assets": "./src/assets",
+          "@modules": "./src/modules",
+          "@pages": "./src/pages",
+          "@api": "./src/api",
+          "@context": "./src/context",
+          "@utils": "./src/utils",
+          "@src": "./src",
+          "@hooks": "./src/hooks"
+        }
+      }
+    ],
+    [
+      "transform-class-properties"
+    ],
+    [
+      "@babel/plugin-transform-runtime",
+      {
+        "regenerator": true
+      }
+    ],
+    ["file-loader",
+      {
+        "outputPath": "/public/static/img",
+        "publicPath": "/static/img"
+      }
+    ]
+  ]
+}

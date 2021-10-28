@@ -1,0 +1,17 @@
+{
+  "short_name": "Sizigi",
+  "name": "Sizigi",
+  "description": "Sizigi",
+  "icons": [
+    {
+      "src": "./favicon/favicon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "display": "standalone",
+  "theme_color": "#512DC8",
+  "background_color": "#512DC8",
+  "orientation": "portrait",
+  "lang": "pt-BR"
+}
